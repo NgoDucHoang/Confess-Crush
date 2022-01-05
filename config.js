@@ -1,20 +1,19 @@
 const CONFIG = {
     titleWeb: "Chỉ cần cậu nói có :))",
-    introTitle: 'Phượng Nguyễn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Hi Phượng nha',
+    introDesc: `Sau một khoảng thời gian tìm hiểu 
+    tớ muốn chúng ta tiến xa hơn 
+    tình bạn.`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'Cậu đòng ý làm người yêu tớ nha  🥰',
+    desc: 'Tớ ko dám hứa trước điều gì, nhưng tớ giám khẳng định sẽ ko để cậu phải buồn khi yêu tớ.  ',
+    btnYes: 'Tớ Đồng ý',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Yêu cậu nhiều 😘',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
